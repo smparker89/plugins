@@ -1,2 +1,2 @@
 # plugins
-Random plugins
+Random Plugins
